@@ -29,7 +29,7 @@ h2 {
     padding: 10px;
 }
 
-nav  { 
+nav  :hover{ 
     width: 100%;
     color: rgb(118, 189, 255);  
     text-decoration: underline;  
